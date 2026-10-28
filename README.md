@@ -5,7 +5,7 @@ PDF product catalog covering stepper motors, geared stepper motors, micro DC mot
 
 ## Product Catalog
 
-[View Keshuo Motor Product Catalog (PDF)](catalog/keshuo-motor-product-catalog.pdf)
+[View Keshuo Motor Product Catalog (PDF)](catalog/keshuo-motor-profile-dc-stepper-brushless-motor-product-catalog.pdf)
 
 ## Motor Types
 
